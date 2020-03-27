@@ -20,5 +20,4 @@ public class Main extends SpringBootServletInitializer implements CommandLineRun
         System.out.println("\nhey\n");
     }
 
-
 }
